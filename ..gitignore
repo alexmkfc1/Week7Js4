@@ -1,0 +1,13 @@
+
+.DS_Store
+Thumbs.db
+
+*.log
+*.tmp
+*.bak
+*.swp
+
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
